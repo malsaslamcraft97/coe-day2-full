@@ -8,4 +8,4 @@ Covers:
 - Custom hook testing
 - Cypress E2E
 
-Extend further as needed.
+Can be extended further as needed.
